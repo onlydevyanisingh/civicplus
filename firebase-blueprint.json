@@ -1,0 +1,61 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "Represents a civic participant registered via Firebase Auth and synced with DigiLocker.",
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "format": "email",
+          "description": "Google Gmail account address"
+        },
+        "name": {
+          "type": "string",
+          "description": "Google display name"
+        },
+        "points": {
+          "type": "integer",
+          "description": "Gamification XP points"
+        },
+        "streak": {
+          "type": "integer",
+          "description": "Consecutive days logging in"
+        },
+        "badges": {
+          "type": "array",
+          "description": "Badges earned by user"
+        },
+        "reportedCount": {
+          "type": "integer"
+        },
+        "verifiedCount": {
+          "type": "integer"
+        },
+        "age": {
+          "type": "integer"
+        },
+        "aadharId": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "profilePic": {
+          "type": "string",
+          "description": "Profile picture URL from Google"
+        }
+      },
+      "required": ["email", "name"]
+    }
+  },
+  "firestore": {
+    "users/{userId}": {
+      "schema": "User",
+      "description": "Private profile of a user, accessible only to themselves"
+    }
+  }
+}

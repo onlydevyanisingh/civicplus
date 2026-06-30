@@ -1,0 +1,6 @@
+{
+  "name": "Civic+",
+  "description": "An AI-powered Community Health Intelligence Platform that helps communities identify, prioritize, predict and resolve hyperlocal civic issues collaboratively.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
