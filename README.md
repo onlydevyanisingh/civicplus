@@ -1,4 +1,4 @@
-# Civic+ AI — Transparent Municipal Issue Management System<br><br>
+# Civic+ AI — AI-powered Civic Issue Reporting and Municipal Management System<br><br>
 
 <img src="https://img.shields.io/badge/Status-Active-success">
 <img src="https://img.shields.io/badge/Hackathon-Vibe2Ship%202026-blue">
@@ -26,7 +26,7 @@ Civic+ AI solves this by:<br>
 - 📍 Intelligent department routing<br>
 - 📊 Civic Health Index dashboard<br>
 - 🔐 Secure dual authentication (citizens & officials)<br>
-- 🔄 Live issue status tracking<br><br>
+- 🔄 Live issue tracking system<br><br>
 
 <b>🤖 AI Integration</b><br>
 - Converts unstructured complaints into structured reports<br>
@@ -42,24 +42,14 @@ AI: Gemini API<br>
 Authentication: Firebase Auth<br><br>
 
 <b>🌐 Deployment</b><br>
-<code>https://your-deployed-app-link.vercel.app</code><br><br>
-
-<b>📸 Screenshots</b><br><br>
-
-<b>🏠 Dashboard</b><br>
-<img src="https://via.placeholder.com/1000x500?text=Dashboard+UI"><br><br>
-
-<b>📝 Issue Reporting</b><br>
-<img src="https://via.placeholder.com/1000x500?text=AI+Issue+Reporting"><br><br>
-
-<b>📊 Civic Analytics</b><br>
-<img src="https://via.placeholder.com/1000x500?text=Civic+Health+Index"><br><br>
+<code>https://gen-lang-client-0533034443.web.app/</code><br><br>
 
 <b>🎯 Impact</b><br>
-Civic+ AI improves transparency between citizens and municipalities, reduces response time for civic issues, and enables data-driven governance at scale.<br><br>
+Civic+ AI improves governance by making civic issue handling transparent, fast, and data-driven.<br>
+It reduces response time and empowers citizens through real-time visibility and accountability.<br><br>
 
 <b>🔮 Future Scope</b><br>
-- Geo-tagged civic issue heatmaps<br>
+- Geo-tagged civic issue mapping<br>
 - Predictive AI for civic problem hotspots<br>
-- Mobile app for reporting<br>
+- Mobile application for reporting<br>
 - Government dashboard integration<br>
