@@ -1,4 +1,4 @@
-# Civic+ AI — AI-powered Civic Issue Reporting and Municipal Management System<br><br>
+# Civic+ — AI-powered Civic Issue Reporting and Municipal Management System<br><br>
 
 <img src="https://img.shields.io/badge/Status-Active-success">
 <img src="https://img.shields.io/badge/Hackathon-Vibe2Ship%202026-blue">
